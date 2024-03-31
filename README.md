@@ -5,11 +5,11 @@
 
 - 💬 Me pergunte sobre **Power BI, SQL, Python**
 
-- 📫 Você me acha através do E-Mail **mariochalegre@outlook.com**
+- 📫 Você me acha através do E-Mail: **mariochalegre@outlook.com**
 
-- 📄 Minhas experiências estarão no meu LinkedIn [https://www.linkedin.com/in/willamschalegre/](https://www.linkedin.com/in/willamschalegre/)
+- 📄 Minhas experiências estarão no meu LinkedIn: [https://www.linkedin.com/in/willamschalegre/](https://www.linkedin.com/in/willamschalegre/)
 
-- ⚡ O que eu gosto de fazer nas horas livres **Praticar Parkour (15 anos treinando), jogando RPG e lendo livros.**
+- ⚡ O que eu gosto de fazer nas horas livres é **Praticar Parkour (15 anos treinando), jogando RPG e lendo livros.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
