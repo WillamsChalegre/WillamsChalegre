@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, Eu sou Willams Mario Chalegre</h1>
 <h3 align="center">Eu adoro trabalhar com dados</h3>
 
-- 🌱 Atualmente estou estudando Python, SQL, Machine Learning e Quality Assurance **Digital Innovation One**
+- 🌱 Atualmente estou me graduando em Data Science na **UNINASSAU**
 
 - 💬 Me pergunte sobre **Power BI, SQL, Python**
 
@@ -9,7 +9,7 @@
 
 - 📄 Minhas experiências estarão no meu LinkedIn [https://www.linkedin.com/in/willamschalegre/](https://www.linkedin.com/in/willamschalegre/)
 
-- ⚡ Um fato engraçado sobre mim **É que nas minhas horas livres estou praticando Parkour**
+- ⚡ O que eu gosto de fazer nas horas livres **Praticar Parkour (15 anos treinando), jogando RPG e lendo livros.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
